@@ -16,5 +16,11 @@
   "bugs": {
     "url": "https://github.com/Subtlesnow/hello_vue/issues"
   },
-  "homepage": "https://github.com/Subtlesnow/hello_vue#readme"
+  "homepage": "https://github.com/Subtlesnow/hello_vue#readme",
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "express": "^4.15.2",
+    "vue": "^2.2.5",
+    "vue-resource": "^1.2.1"
+  }
 }
